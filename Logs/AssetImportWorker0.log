@@ -892,3 +892,4 @@ Received Import Request.
 Start importing Assets/_Project/Examples/2D_Pixel/2D_Pixel.unity using Guid(092795270f3e8fe46b3fdf867d5e9e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b15ba571da8a640ccc64c522ab637c') in 0.001925 seconds 
   Import took 0.118235 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
