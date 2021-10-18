@@ -37,3 +37,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 UserSettings/EditorUserSettings.asset
+
+# KW
+Assets/_Project/KW_WIP
+Assets/_Project/KW_WIP.meta
