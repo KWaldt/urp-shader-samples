@@ -31,22 +31,10 @@
             "m_Id": "cc60dd0e3975450bb261155d83a0b11f"
         },
         {
-            "m_Id": "a271d6f27dd94254acbb031c52430510"
-        },
-        {
             "m_Id": "0d58024ebad74e9fa031d32b4407c469"
         },
         {
             "m_Id": "0e0bb989a5f74405a1115041b4225fa8"
-        },
-        {
-            "m_Id": "b4264070dad5474f92851f6855131e3f"
-        },
-        {
-            "m_Id": "5e8b614567484b188e012ab3071ea555"
-        },
-        {
-            "m_Id": "e50ea96e51a14187a1fb9db8350bbdb9"
         },
         {
             "m_Id": "66514ebacd6f4434a54bfe960701a78e"
@@ -62,46 +50,34 @@
         },
         {
             "m_Id": "0bcc0a031b5142b2861e1af1d7231963"
+        },
+        {
+            "m_Id": "cc20d595f08f4ea1937b6ecd2ddf7f50"
+        },
+        {
+            "m_Id": "6bf782e1b1504025a3d56c7ce5745b7f"
         }
     ],
     "m_GroupDatas": [
-        {
-            "m_Id": "7439fd8b64304d96bbd8dad73203092b"
-        },
-        {
-            "m_Id": "9eb79914c5454ec0867e7c7de767be97"
-        },
-        {
-            "m_Id": "0fecacd7acb54db9a1f9659c9979d7d0"
-        },
-        {
-            "m_Id": "972ca78d98344f2f8b6afaa0d70483dc"
-        },
         {
             "m_Id": "52ba6b48f8d94ee09d55be6ea9b995ab"
         },
         {
             "m_Id": "249c8948ceb9420b99656e1d66a9ac36"
+        },
+        {
+            "m_Id": "f3b5192425294837bcbd8193b0ca6b1c"
         }
     ],
     "m_StickyNoteDatas": [
-        {
-            "m_Id": "31fb939fb53348d18d13158c17b8b27b"
-        },
-        {
-            "m_Id": "e5cc4f56bb2f441481937f17cd230335"
-        },
-        {
-            "m_Id": "18a778262cac48b69e6e2aaecdb0840c"
-        },
-        {
-            "m_Id": "ae9d7033b5f84bd3b33677f6a7d0e681"
-        },
         {
             "m_Id": "4ad793bec3364acdb41982bdf64293e9"
         },
         {
             "m_Id": "2bab3dd48d634c0a95cfafdcff2e5f34"
+        },
+        {
+            "m_Id": "9f2c3142f13c43a7a152e0130c2649ca"
         }
     ],
     "m_Edges": [
@@ -178,20 +154,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "5e8b614567484b188e012ab3071ea555"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "2dd298f7f7cb44129855d5aebbfec0da"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "66514ebacd6f4434a54bfe960701a78e"
                 },
                 "m_SlotId": 1
@@ -206,15 +168,15 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "a271d6f27dd94254acbb031c52430510"
+                    "m_Id": "6bf782e1b1504025a3d56c7ce5745b7f"
                 },
                 "m_SlotId": 0
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "5e8b614567484b188e012ab3071ea555"
+                    "m_Id": "cc20d595f08f4ea1937b6ecd2ddf7f50"
                 },
-                "m_SlotId": 0
+                "m_SlotId": 531107634
             }
         },
         {
@@ -234,13 +196,13 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "b4264070dad5474f92851f6855131e3f"
+                    "m_Id": "cc20d595f08f4ea1937b6ecd2ddf7f50"
                 },
-                "m_SlotId": 0
+                "m_SlotId": 1
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "e50ea96e51a14187a1fb9db8350bbdb9"
+                    "m_Id": "2dd298f7f7cb44129855d5aebbfec0da"
                 },
                 "m_SlotId": 0
             }
@@ -257,20 +219,6 @@
                     "m_Id": "66514ebacd6f4434a54bfe960701a78e"
                 },
                 "m_SlotId": -1933112941
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "e50ea96e51a14187a1fb9db8350bbdb9"
-                },
-                "m_SlotId": 1
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "5e8b614567484b188e012ab3071ea555"
-                },
-                "m_SlotId": 1
             }
         }
     ],
@@ -343,6 +291,29 @@
         "z": 0.0,
         "w": 0.0
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "07dc37511d1042948149370945ac71ec",
+    "m_Id": 531107634,
+    "m_DisplayName": "Axis",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Vector3_eeb49da5b68a466eb3fce9f4d1924467",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
 }
 
 {
@@ -498,17 +469,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.GroupData",
-    "m_ObjectId": "0fecacd7acb54db9a1f9659c9979d7d0",
-    "m_Title": "Angle",
-    "m_Position": {
-        "x": -1251.0,
-        "y": 331.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "13743b7610e64dac92fce713a34f30a5",
     "m_Id": 2,
@@ -528,26 +488,6 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "18a778262cac48b69e6e2aaecdb0840c",
-    "m_Title": "Note",
-    "m_Content": "This is the axis we want our mask to use. It uses a XYZ format.\n\n(0,1,0) would mean that we want to use normals that point to the top (Y).",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -1226.0,
-        "y": 434.0,
-        "width": 200.0,
-        "height": 160.0
-    },
-    "m_Group": {
-        "m_Id": "0fecacd7acb54db9a1f9659c9979d7d0"
     }
 }
 
@@ -717,26 +657,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "31fb939fb53348d18d13158c17b8b27b",
-    "m_Title": "Note",
-    "m_Content": "See: \"MaskUsingNormalsSimple\"\n\nWe can also multiply this with an AO map to prevent certain areas from being affected. (e.g. to keep inner elements from being snowed in)",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -1094.0,
-        "y": -15.0,
-        "width": 200.0,
-        "height": 127.9773178100586
-    },
-    "m_Group": {
-        "m_Id": "7439fd8b64304d96bbd8dad73203092b"
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "3710b6eb6e2343668feaa93b7d6c162a",
     "m_Group": {
@@ -841,7 +761,7 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -873.0,
+        "x": -945.0,
         "y": -372.0,
         "width": 303.0,
         "height": 106.0
@@ -883,44 +803,6 @@
     "m_Position": {
         "x": 259.0000915527344,
         "y": -302.0000305175781
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DotProductNode",
-    "m_ObjectId": "5e8b614567484b188e012ab3071ea555",
-    "m_Group": {
-        "m_Id": "9eb79914c5454ec0867e7c7de767be97"
-    },
-    "m_Name": "Dot Product",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -507.0000915527344,
-            "y": -148.00001525878907,
-            "width": 208.0,
-            "height": 302.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "9113ce19364d4315b601ef12df79bedb"
-        },
-        {
-            "m_Id": "71e349ab961a4fd1b557a23955fed180"
-        },
-        {
-            "m_Id": "759fd61fb6e24ffa9cab1b799013c833"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
     }
 }
 
@@ -1030,99 +912,59 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
-    "m_ObjectId": "71e349ab961a4fd1b557a23955fed180",
-    "m_Id": 1,
-    "m_DisplayName": "B",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "B",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 1.0,
-        "z": 0.0,
-        "w": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.GroupData",
-    "m_ObjectId": "7439fd8b64304d96bbd8dad73203092b",
-    "m_Title": "Normal Vector",
-    "m_Position": {
-        "x": 10.0,
-        "y": 10.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "759fd61fb6e24ffa9cab1b799013c833",
-    "m_Id": 2,
-    "m_DisplayName": "Out",
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "6b824581ef26451c9608e3a518e59a60",
+    "m_Id": 0,
+    "m_DisplayName": "Mask Vector",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
     "m_StageCapability": 3,
-    "m_Value": 0.0,
-    "m_DefaultValue": 0.0,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
     "m_Labels": []
 }
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
-    "m_ObjectId": "7b0cf00296064bee83084912b80d0cdc",
-    "m_Id": 0,
-    "m_DisplayName": "In",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "In",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
+    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
+    "m_ObjectId": "6bf782e1b1504025a3d56c7ce5745b7f",
+    "m_Group": {
+        "m_Id": "f3b5192425294837bcbd8193b0ca6b1c"
     },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
-    "m_ObjectId": "81791b98e5ae49c69949e807c35a4805",
-    "m_Id": 1,
-    "m_DisplayName": "Out",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
+    "m_Name": "Property",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -968.0,
+            "y": -103.0,
+            "width": 143.0,
+            "height": 34.0
+        }
     },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
+    "m_Slots": [
+        {
+            "m_Id": "6b824581ef26451c9608e3a518e59a60"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_Property": {
+        "m_Id": "e417cd9d9eb748109ec87fdf5c661f9a"
     }
 }
 
@@ -1163,30 +1005,6 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "89c6beeb4be347e28515e731ef0be464",
-    "m_Id": 0,
-    "m_DisplayName": "A",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "A",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
-    "m_ObjectId": "9113ce19364d4315b601ef12df79bedb",
     "m_Id": 0,
     "m_DisplayName": "A",
     "m_SlotType": 0,
@@ -1261,17 +1079,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.GroupData",
-    "m_ObjectId": "972ca78d98344f2f8b6afaa0d70483dc",
-    "m_Title": "Normalize",
-    "m_Position": {
-        "x": 10.0,
-        "y": 10.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Texture2DInputMaterialSlot",
     "m_ObjectId": "9cf8c957742d454189a52d99809e1f54",
     "m_Id": 1,
@@ -1290,69 +1097,22 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.GroupData",
-    "m_ObjectId": "9eb79914c5454ec0867e7c7de767be97",
-    "m_Title": "Compare Angle",
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "9f2c3142f13c43a7a152e0130c2649ca",
+    "m_Title": "Note",
+    "m_Content": "Double click the subgraph to enter it. It's commented.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
     "m_Position": {
-        "x": -532.0001220703125,
-        "y": -207.00003051757813
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
-    "m_ObjectId": "a26a73841e4241bf9af0dca6012b0073",
-    "m_Id": 0,
-    "m_DisplayName": "Out",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 1.0
+        "serializedVersion": "2",
+        "x": -1011.0,
+        "y": -27.0,
+        "width": 200.0,
+        "height": 100.0
     },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.NormalVectorNode",
-    "m_ObjectId": "a271d6f27dd94254acbb031c52430510",
     "m_Group": {
-        "m_Id": "7439fd8b64304d96bbd8dad73203092b"
-    },
-    "m_Name": "Normal Vector",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -1098.0,
-            "y": -152.0000457763672,
-            "width": 208.0,
-            "height": 316.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "a26a73841e4241bf9af0dca6012b0073"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": false,
-    "m_PreviewMode": 2,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_Space": 2
+        "m_Id": "f3b5192425294837bcbd8193b0ca6b1c"
+    }
 }
 
 {
@@ -1423,22 +1183,17 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "ae9d7033b5f84bd3b33677f6a7d0e681",
-    "m_Title": "Note",
-    "m_Content": "The dot product results in a float that tells us how aligned two vectors are.\nSince both of our vectors are normalised (= have a length of 1) the result is between -1 and 1.\n\n-1 = opposite\n  0 = perpendicular\n  1 = same direction\n\nInbetween numbers, like 0.78, are also possible. This means that the result is a smooth gradient that we can manipulate as we see fit.\n",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -500.0,
-        "y": 165.0,
-        "width": 200.0,
-        "height": 244.7030029296875
-    },
-    "m_Group": {
-        "m_Id": "9eb79914c5454ec0867e7c7de767be97"
-    }
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "a8cb328dbebc4d4b9494e9590525a317",
+    "m_Id": 1,
+    "m_DisplayName": "Output",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Output",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
 }
 
 {
@@ -1484,41 +1239,6 @@
     "m_RangeValues": {
         "x": 0.0,
         "y": 1.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
-    "m_ObjectId": "b4264070dad5474f92851f6855131e3f",
-    "m_Group": {
-        "m_Id": "0fecacd7acb54db9a1f9659c9979d7d0"
-    },
-    "m_Name": "Property",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -1210.0,
-            "y": 390.0,
-            "width": 143.0,
-            "height": 34.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "caa87363e6b246e182d1717e5005cac6"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_Property": {
-        "m_Id": "e417cd9d9eb748109ec87fdf5c661f9a"
     }
 }
 
@@ -1617,29 +1337,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
-    "m_ObjectId": "caa87363e6b246e182d1717e5005cac6",
-    "m_Id": 0,
-    "m_DisplayName": "Mask Vector",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "cab68292b26e4287b3d13ebc7e51ffc4",
     "m_Id": -474410122,
@@ -1651,6 +1348,48 @@
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.SubGraphNode",
+    "m_ObjectId": "cc20d595f08f4ea1937b6ecd2ddf7f50",
+    "m_Group": {
+        "m_Id": "f3b5192425294837bcbd8193b0ca6b1c"
+    },
+    "m_Name": "KW Normal Direction Mask",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -794.0,
+            "y": -142.00001525878907,
+            "width": 208.0,
+            "height": 278.0
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "07dc37511d1042948149370945ac71ec"
+        },
+        {
+            "m_Id": "a8cb328dbebc4d4b9494e9590525a317"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_SerializedSubGraph": "{\n    \"subGraph\": {\n        \"fileID\": -5475051401550479605,\n        \"guid\": \"75d393e6c1dfe554bba0b94e6028f5c8\",\n        \"type\": 3\n    }\n}",
+    "m_PropertyGuids": [
+        "8188499c-8220-4602-8327-1c6addb837ac"
+    ],
+    "m_PropertyIds": [
+        531107634
+    ]
 }
 
 {
@@ -1800,61 +1539,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.NormalizeNode",
-    "m_ObjectId": "e50ea96e51a14187a1fb9db8350bbdb9",
-    "m_Group": {
-        "m_Id": "972ca78d98344f2f8b6afaa0d70483dc"
-    },
-    "m_Name": "Normalize",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -843.0,
-            "y": 354.0,
-            "width": 132.0,
-            "height": 94.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "7b0cf00296064bee83084912b80d0cdc"
-        },
-        {
-            "m_Id": "81791b98e5ae49c69949e807c35a4805"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": false,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "e5cc4f56bb2f441481937f17cd230335",
-    "m_Title": "Note",
-    "m_Content": "Normalize is to vectors what Saturate is to floats: it cuts the values into a standardised range.\nIn this case, our vector will be adjusted so that it has a length of one. (If it's too long it gets cut, it it's too short it gets extended.) The direction stays the same.\n\nThis is important so that we can compare it with the normal direction. If we don't do it and our Mask Vector is too long, the resulting dot product will be outside the 0–1 range.\n",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -873.0,
-        "y": 457.0,
-        "width": 200.0,
-        "height": 237.0
-    },
-    "m_Group": {
-        "m_Id": "972ca78d98344f2f8b6afaa0d70483dc"
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "ec9453252d3b46daa32aafc5d41279f5",
     "m_Id": 6,
@@ -1866,6 +1550,17 @@
     "m_Value": 1.0,
     "m_DefaultValue": 1.0,
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "f3b5192425294837bcbd8193b0ca6b1c",
+    "m_Title": "Mask from Direction",
+    "m_Position": {
+        "x": -992.9999389648438,
+        "y": -193.99990844726563
+    }
 }
 
 {
