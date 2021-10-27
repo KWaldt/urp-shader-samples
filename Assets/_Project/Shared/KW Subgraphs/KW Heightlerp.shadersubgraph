@@ -50,7 +50,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "3eb059f763f24c8fbb92a29828f93339"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -265,6 +269,26 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "3eb059f763f24c8fbb92a29828f93339",
+    "m_Title": "Note",
+    "m_Content": "We wrapped our hlsl code into a subgraph to skip the input declarations. This saves time in the long run.\nIt also means that we can change the function name in the code and then we only need to update this node - instead of every shader that uses it.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -101.0,
+        "y": 232.0,
+        "width": 200.0,
+        "height": 149.43856811523438
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 
@@ -795,10 +819,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -110.5,
+            "x": -109.9999771118164,
             "y": -187.0,
-            "width": 221.0,
-            "height": 374.0000305175781
+            "width": 211.0,
+            "height": 398.0
         }
     },
     "m_Slots": [
