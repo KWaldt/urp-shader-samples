@@ -277,7 +277,7 @@
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "3eb059f763f24c8fbb92a29828f93339",
     "m_Title": "Note",
-    "m_Content": "We wrapped our hlsl code into a subgraph to skip the input declarations. This saves time in the long run.\nIt also means that we can change the function name in the code and then we only need to update this node - instead of every shader that uses it.",
+    "m_Content": "We wrapped our HLSL to skip the input declarations. This saves time in the long run.\nIt also means that we can change the function name in the code and then we only need to update this node - instead of every shader that uses it.",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
