@@ -241,7 +241,7 @@
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "1a5503b45ccc43b1a57e7b2838474d97",
     "m_Title": "Note",
-    "m_Content": "Write something here",
+    "m_Content": "This is similar to the screen position: we can split the channels to extract directions, e.g. to get a vertical gradient in world space.\nVerts that are higher have brighter values.",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
@@ -249,7 +249,7 @@
         "x": -1892.0,
         "y": -1333.0,
         "width": 200.0,
-        "height": 160.0
+        "height": 133.6993408203125
     },
     "m_Group": {
         "m_Id": "ff9bbd44649c4121ab3569657d609ab8"
