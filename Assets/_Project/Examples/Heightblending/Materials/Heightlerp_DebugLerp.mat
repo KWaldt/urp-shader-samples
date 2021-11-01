@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Heightlerp_DebugLerp
+  m_Shader: {fileID: -6465566751694194690, guid: a6e398da14bb5cd4f989a2afcdeea301, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_056093264b6746eab054e957bc59a45a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: ff42f27f0551e114482610d94ea6cf24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_15d1c4e092f44ef1adec0c8bb1480d79_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a803333b124fb2a43ada1b5542f27a94, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_33f79df106744bdbb44b9ce8c698280d_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 518917c9ddc4708468edff45e585904b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d83c09e3bbe34ec99873825f121fe39c_Texture_1:
+        m_Texture: {fileID: 2800000, guid: feab169a8c5cca944aacc0c3a7fb975b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2ab0e1a66e8b4d958305461fb7c59676: 1
+    - Vector1_dd0dc37bc71b4626bb81667e4609606f: 0.08
+    m_Colors: []
+  m_BuildTextureStacks: []
