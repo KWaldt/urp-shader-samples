@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BlendGradientAndTexture
+  m_Name: BlendGradientAndTexture_A
   m_Shader: {fileID: -6465566751694194690, guid: b525eb18aed4cab4f9d8c45697c5d5b3, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -37,7 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_1f6ac9f62c044a898ce8218de0eff65c: 1
-    - Vector1_2b4c3800cbb943f8a97e5116031b9bfd: 1
+    - Vector1_2b4c3800cbb943f8a97e5116031b9bfd: 0
     - Vector1_4ca535dedc1540a38340efc02a5cd3b1: 0
     m_Colors: []
   m_BuildTextureStacks: []
