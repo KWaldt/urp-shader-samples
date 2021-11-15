@@ -986,7 +986,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "1887a4c6c63a42c090effebd77f2c8a4",
     "m_Id": 0,
-    "m_DisplayName": "Shading",
+    "m_DisplayName": "Shading Texture",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
