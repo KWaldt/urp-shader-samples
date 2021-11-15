@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: KW_Default2D
+  m_Name: Demo_2D_LayeredWorldPositionRandomisation
   m_Shader: {fileID: -6465566751694194690, guid: cdd5eb695e3a4e64b918096f15ab05e7, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -32,7 +32,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Shading:
-        m_Texture: {fileID: 2800000, guid: 5bcda3df98e2a604c949b812667ea66c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8292c8255e3775d49993006099208d2f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - gfgdfg:
@@ -52,14 +52,21 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_076fc782aa064772bd22998f9a051469: 0
+    - Vector1_0a466ad28dbc4c81bc2ece092f0aecf8: 0.44
+    - Vector1_1c39fbc7df9d4cc29f025853f596552a: 2
+    - Vector1_39d45cb8f2934fbfb7d46a1940abd4b7: 1.44
     - Vector1_51ab97e73445416a90dfd03f9534b48a: 979.9
     - Vector1_71f7793902174703b2cb470477bb6f45: 0
     - Vector1_84a87f09c4b74dc887026b7778c647c1: 2
     - Vector1_a6f96657fd314ffb8fce35dbe441c869: 51
     - Vector1_e50ab02faf284f3a8280a018f4ecdcb7: 8
+    - Vector1_f6ce62950abc4c9c911c76a7e910081a: 7.7
     - _GlowStrength: 0
     m_Colors:
     - Color_ae635b894e6d4d179e124ef23b9b3256: {r: 19.468573, g: 2.1100843, b: 0, a: 0}
     - Color_aef58a311b3d47e9a73ab09aa51083f1: {r: 0.24433441, g: 0, b: 0.8867924, a: 1}
-    - Color_bd8a6a44cc9041d5982bb9a926c48ca7: {r: 0.3679245, g: 0.18304557, b: 0.109336056, a: 1}
+    - Color_bd8a6a44cc9041d5982bb9a926c48ca7: {r: 0.2830189, g: 0.15940993, b: 0.13483447, a: 1}
+    - Vector2_b1d66fb1b3874a9cbe1c973778079ae1: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_f5f0ecf8465349e09b80303df3debb45: {r: -1.5, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
