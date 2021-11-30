@@ -90,7 +90,7 @@
     },
     "m_Path": "Sub Graphs",
     "m_ConcretePrecision": 0,
-    "m_PreviewMode": 2,
+    "m_PreviewMode": 1,
     "m_OutputNode": {
         "m_Id": "4ce836bfca9544818fefef1ebaa96b10"
     },
@@ -395,7 +395,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "ecef77e5052546739e10f3438b8da850",
     "m_Id": 0,
-    "m_DisplayName": "Vector4",
+    "m_DisplayName": "Input",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
