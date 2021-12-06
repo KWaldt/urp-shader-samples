@@ -150,7 +150,11 @@
             "m_Id": "565c56aa0c1648e7bf5fca81d00f6849"
         }
     ],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "c7e594d697c44983a198a2205e20936e"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -3413,6 +3417,26 @@
     "m_Position": {
         "x": 10.0,
         "y": 10.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "c7e594d697c44983a198a2205e20936e",
+    "m_Title": "Note",
+    "m_Content": "Same base as:\n\"KW UVs Animated Wave\"",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -2790.0,
+        "y": 737.0,
+        "width": 200.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 
