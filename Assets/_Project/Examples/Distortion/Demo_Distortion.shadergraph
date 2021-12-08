@@ -3341,7 +3341,7 @@
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "aabbde92e7dc486383561b9f19684d73",
     "m_Title": "Note",
-    "m_Content": "We can use greyscale textures or normal maps. (Just make sure you set the right \"Space\".)\nNormal Maps can be more interesting because you can get asymmetrical distortion - e.g. only distort U but not V. You can try it out with the examples on the right.\n\nIf you're using a texture, nothing's holding you back from distorting your distortion texture. Have fun!\n",
+    "m_Content": "We can use greyscale textures or normal maps. (Just make sure you set the right \"Type\".)\nNormal Maps can be more interesting because you can get asymmetrical distortion - e.g. only distort U but not V. You can try it out with the examples on the right.\n\nIf you're using a texture, nothing's holding you back from distorting your distortion texture. Have fun!\n",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
