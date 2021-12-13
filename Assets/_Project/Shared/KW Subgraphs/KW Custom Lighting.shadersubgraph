@@ -2,7 +2,11 @@
     "m_SGVersion": 2,
     "m_Type": "UnityEditor.ShaderGraph.GraphData",
     "m_ObjectId": "985d70a45dec438aa8bcb1b426d006b8",
-    "m_Properties": [],
+    "m_Properties": [
+        {
+            "m_Id": "66c16b88dd544f2baf07d565006396b0"
+        }
+    ],
     "m_Keywords": [],
     "m_Nodes": [
         {
@@ -10,6 +14,9 @@
         },
         {
             "m_Id": "b46f117a203d4d36b030afa54b169b35"
+        },
+        {
+            "m_Id": "41b58aff0a684b48a0806c6574b24619"
         }
     ],
     "m_GroupDatas": [],
@@ -19,6 +26,20 @@
         }
     ],
     "m_Edges": [
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "41b58aff0a684b48a0806c6574b24619"
+                },
+                "m_SlotId": 0
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "b46f117a203d4d36b030afa54b169b35"
+                },
+                "m_SlotId": 4
+            }
+        },
         {
             "m_OutputSlot": {
                 "m_Node": {
@@ -45,6 +66,20 @@
                     "m_Id": "c62430329de64fd1a5096546a0a01277"
                 },
                 "m_SlotId": 2
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "b46f117a203d4d36b030afa54b169b35"
+                },
+                "m_SlotId": 2
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "c62430329de64fd1a5096546a0a01277"
+                },
+                "m_SlotId": 3
             }
         }
     ],
@@ -125,6 +160,56 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "3b953274110c46438b981e95c5e71d55",
+    "m_Id": 2,
+    "m_DisplayName": "Attenuation",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Attenuation",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
+    "m_ObjectId": "41b58aff0a684b48a0806c6574b24619",
+    "m_Group": {
+        "m_Id": ""
+    },
+    "m_Name": "Property",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -338.0000305175781,
+            "y": 40.00000762939453,
+            "width": 129.0,
+            "height": 34.0
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "ef18844941e149adb21ebfa756ebe10c"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_Property": {
+        "m_Id": "66c16b88dd544f2baf07d565006396b0"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "5bb522456db044f1a56643eb01796fa3",
     "m_Title": "Ref",
@@ -140,6 +225,44 @@
     },
     "m_Group": {
         "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "6132926260284b5f917c483acb6e5df4",
+    "m_Id": 3,
+    "m_DisplayName": "Attenuation",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Attenuation",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector3ShaderProperty",
+    "m_ObjectId": "66c16b88dd544f2baf07d565006396b0",
+    "m_Guid": {
+        "m_GuidSerialized": "fb656b76-ed76-4efa-8e98-5cfd5344888e"
+    },
+    "m_Name": "WorldPos",
+    "m_DefaultReferenceName": "Vector3_66c16b88dd544f2baf07d565006396b0",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
     }
 }
 
@@ -167,13 +290,36 @@
 }
 
 {
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "79853ff3e2aa49bd885a653a5890807e",
+    "m_Id": 4,
+    "m_DisplayName": "WorldPos",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "WorldPos",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
+}
+
+{
     "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.CustomFunctionNode",
     "m_ObjectId": "b46f117a203d4d36b030afa54b169b35",
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "MainLightInfo (Custom Function)",
+    "m_Name": "CustomLighting (Custom Function)",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -186,10 +332,16 @@
     },
     "m_Slots": [
         {
+            "m_Id": "79853ff3e2aa49bd885a653a5890807e"
+        },
+        {
             "m_Id": "e4ee7f01ca82431199c57b4055b89ba5"
         },
         {
             "m_Id": "074bc952b0294142a3a6a538c9c62c9f"
+        },
+        {
+            "m_Id": "3b953274110c46438b981e95c5e71d55"
         }
     ],
     "synonyms": [],
@@ -199,10 +351,10 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_SourceType": 1,
-    "m_FunctionName": "MainLightInfo",
-    "m_FunctionSource": "",
-    "m_FunctionBody": "#ifdef SHADERGRAPH_PREVIEW\r\n\tDirection = half3(0.5, 0.5, 0);\r\n\tColor = 1;\r\n#else\r\n\tLight light = GetMainLight();\r\n\tDirection = light.direction;\r\n\tColor = light.color;\n#endif"
+    "m_SourceType": 0,
+    "m_FunctionName": "CustomLighting",
+    "m_FunctionSource": "cf795074589b26d4699465811e396a64",
+    "m_FunctionBody": "#ifdef SHADERGRAPH_PREVIEW\r\n\tDirection = half3(0.5, 0.5, 0);\r\n\tColor = 1;\r\n\tAttenuation = 1;\n\tDistanceAttenuation = 1;\n#else\r\n\tLight light = GetMainLight();\r\n\tDirection = light.direction;\r\n\tColor = light.color;\n\tAttenuation = light.shadowAttenuation;\n\tDistanceAttenuation = light.distanceAttenuation;\n#endif"
 }
 
 {
@@ -229,6 +381,9 @@
         },
         {
             "m_Id": "7170b05131f24e469785816eda85b0d0"
+        },
+        {
+            "m_Id": "6132926260284b5f917c483acb6e5df4"
         }
     ],
     "synonyms": [],
@@ -250,6 +405,29 @@
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Direction",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "ef18844941e149adb21ebfa756ebe10c",
+    "m_Id": 0,
+    "m_DisplayName": "WorldPos",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Out",
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
