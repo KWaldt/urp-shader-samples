@@ -18,7 +18,7 @@ void CustomLighting_float(float3 WorldPos, out float3 Direction, out float3 Colo
             half4 shadowCoord = TransformWorldToShadowCoord(WorldPos);
         #endif 
 
-        Light light = GetMainLight(shadowCoord );
+        Light light = GetMainLight(shadowCoord);
         Direction = light.direction;
         Color = light.color;
         
