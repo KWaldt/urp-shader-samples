@@ -2154,7 +2154,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1071502464}
   - component: {fileID: 1071502467}
-  - component: {fileID: 1071502466}
   - component: {fileID: 1071502465}
   m_Layer: 0
   m_Name: Minimap Camera
@@ -2209,14 +2208,6 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
---- !u!81 &1071502466
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1071502463}
-  m_Enabled: 1
 --- !u!20 &1071502467
 Camera:
   m_ObjectHideFlags: 0
@@ -2723,7 +2714,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1362086421}
   - component: {fileID: 1362086424}
-  - component: {fileID: 1362086423}
   - component: {fileID: 1362086422}
   m_Layer: 0
   m_Name: Low Res
@@ -2778,14 +2768,6 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
---- !u!81 &1362086423
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1362086420}
-  m_Enabled: 1
 --- !u!20 &1362086424
 Camera:
   m_ObjectHideFlags: 0
@@ -3027,7 +3009,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1397082831}
   - component: {fileID: 1397082834}
-  - component: {fileID: 1397082833}
   - component: {fileID: 1397082832}
   m_Layer: 0
   m_Name: Gameplay Camera
@@ -3082,14 +3063,6 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
---- !u!81 &1397082833
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1397082830}
-  m_Enabled: 1
 --- !u!20 &1397082834
 Camera:
   m_ObjectHideFlags: 0
@@ -3239,7 +3212,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1492429721}
   - component: {fileID: 1492429724}
-  - component: {fileID: 1492429723}
   - component: {fileID: 1492429722}
   m_Layer: 0
   m_Name: High Res
@@ -3294,14 +3266,6 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
---- !u!81 &1492429723
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1492429720}
-  m_Enabled: 1
 --- !u!20 &1492429724
 Camera:
   m_ObjectHideFlags: 0
