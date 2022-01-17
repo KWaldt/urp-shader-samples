@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EyeDemo
+  m_Shader: {fileID: -6465566751694194690, guid: c7b58574f518ca44b95af26023117d9a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_82c42d92166f4674b6cf2e816dbf1140:
+        m_Texture: {fileID: 8900000, guid: 0b15ce4029daecd498d36d4054f69362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2664bf63688745cba781a0881a25596f:
+        m_Texture: {fileID: -2933278756326911717, guid: 88f137301aa59bb4ab46232fc21fa71f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7d326a9a4bf74df3ad477603bcb0c032:
+        m_Texture: {fileID: 2800000, guid: 307cc76de17f2d14bba7bf638ef01a8e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_94056479f4624d93b28863808885360b:
+        m_Texture: {fileID: 7006406164350703877, guid: 88f137301aa59bb4ab46232fc21fa71f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_b8345bc383fa4669bf8d86d271bfc190:
+        m_Texture: {fileID: -8717689554755448132, guid: 88f137301aa59bb4ab46232fc21fa71f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture3D_1f5d173fc3da4287b008a3c6eef119dc:
+        m_Texture: {fileID: 11700000, guid: 0b15ce4029daecd498d36d4054f69362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: -3748483802730709894, guid: 88f137301aa59bb4ab46232fc21fa71f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Control:
+        m_Texture: {fileID: -258146387502460630, guid: 88f137301aa59bb4ab46232fc21fa71f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_12d9b0ac9c1c4a90bb09cb2e1fe72dbe: 6.73
+    - Vector1_34b3ceaf3281450d824f3f2c274a8e97: 9.48
+    - Vector1_5413c10741274b28a97a1a1561a79626: 4.68
+    - Vector1_676dc80380b34662b6190a56ca4a2402: -0.083
+    - Vector1_93f166ee328e4a938dba87fc8c282070: 1.78
+    - Vector1_b68d5c72ca4f40d8949cd727c2750b1c: 1
+    - Vector1_bf7fc8b332284bbbac81e4605bb82d50: 5
+    - Vector1_caaefc72ee9847228af9c0e37698a8a7: 0.625
+    - Vector1_febf370b8b354f03b79aa867e52762fa: 0.256
+    m_Colors:
+    - Color_ba274f08087147a1b1b3b56d8f6e5891: {r: 0.53517884, g: 0.5660378, b: 0.18422927, a: 0}
+    - Color_d938c0d0fe8a496eade165327d6d9ff8: {r: 0.6084906, g: 0.9266214, b: 1, a: 0}
+    - Color_e698dc44eda4433d8c25af1d68df650d: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
