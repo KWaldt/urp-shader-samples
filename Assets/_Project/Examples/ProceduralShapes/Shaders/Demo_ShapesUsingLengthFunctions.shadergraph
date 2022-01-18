@@ -4150,7 +4150,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "6f5566afb370447c8a975d47b4d627df",
-    "m_Title": "Example: DIstorted UVs",
+    "m_Title": "Example: Distorted UVs",
     "m_Position": {
         "x": -7992.0,
         "y": 142.0
