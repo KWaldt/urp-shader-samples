@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Demo_Toon_DoubleStep_NoNormals
+  m_Shader: {fileID: -6465566751694194690, guid: 173d12e8547baac44a24216c85cc1230, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_79fac9dc3f844c8f9bf062a98fab0cec:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_5c5febb017634a83b6f87550e52df789: 0.2
+    - Vector1_70e363c6eee44d0a883139329e4bd793: 0
+    - Vector1_dad2c5fb44624a54ab73fdfa2b0f836d: 0.15
+    m_Colors:
+    - Vector2_60fb41b216cf41a4b0bdb5ebb9230cbb: {r: 1, g: 1, b: 0, a: 0}
+    - _BaseColor: {r: 0.45894146, g: 0.7017851, b: 0.8584906, a: 0}
+  m_BuildTextureStacks: []

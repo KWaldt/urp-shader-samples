@@ -809,20 +809,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "7da9429bbedf4d7dbfd731a6785d2ffd"
-                },
-                "m_SlotId": 0
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "3d6bc06758634b82a88a888cd7cf7fbf"
-                },
-                "m_SlotId": 1242768642
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "7dbaf47606c54ffcb399197e59cf0e79"
                 },
                 "m_SlotId": 2
@@ -3464,9 +3450,6 @@
         }
     },
     "m_Slots": [
-        {
-            "m_Id": "9d17494287844209a53ec73fcb2be237"
-        },
         {
             "m_Id": "8931ad06285447c9a805dcd707a2786b"
         },
@@ -7085,29 +7068,6 @@
         "z": 0.0,
         "w": 0.0
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
-    "m_ObjectId": "9d17494287844209a53ec73fcb2be237",
-    "m_Id": 1242768642,
-    "m_DisplayName": "WorldPos",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Vector3_66c16b88dd544f2baf07d565006396b0",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_Labels": []
 }
 
 {
