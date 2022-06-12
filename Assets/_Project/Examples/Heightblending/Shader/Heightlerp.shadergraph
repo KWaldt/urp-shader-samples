@@ -1962,7 +1962,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "90861db8bc074fd88064c2e8c3f23625",
     "m_Id": 0,
-    "m_DisplayName": "Fade To Lerp",
+    "m_DisplayName": "Debug Fade To Lerp",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
